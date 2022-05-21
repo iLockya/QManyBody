@@ -1,7 +1,5 @@
 ## Homework #1
 
-<div align = "center">陈珂旸 1700012118</div>
-
 ### 代码
 
 #### 运行方式
